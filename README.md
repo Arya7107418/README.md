@@ -49,8 +49,8 @@ A brief description of another project and its key features.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/anjaliarya)
-- [Twitter](https://twitter.com/anjaliarya)
+- [LinkedIn](https://www.linkedin.com/in/anjali-arya-a936a6223/)
+- [Twitter](https://x.com/AnjaliA1007)
 - [GitHub](https://github.com/Arya7107418)
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on any projects or just chat about tech!
